@@ -156,7 +156,7 @@ spree to accept contact forms
    using Html,css,and Javascript website for HoTel & Resort just a sample
     Tech:HTML<CSS<JS
 
-<a href="https://github.com/bamanuel977-afk/BE-Family">
+<a href="https://github.com/bamanuel977-afk/BE-Family_Hotel">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
