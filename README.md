@@ -150,6 +150,12 @@ spree to accept contact forms
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
+## Hotel & Resort web
+
+
+   using Html,css,and Javascript website for HoTel & Resort just a sample
+    **Tech:**HTML<CSS<JS
+
 # 🔥 Contribution Streak
 
 <div align="center">
