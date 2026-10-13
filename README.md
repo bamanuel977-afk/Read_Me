@@ -160,10 +160,11 @@ spree to accept contact forms
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
-###Snake Game
+##Snake Game
 
+this the snake game using python language
 
-<a href="https://github.com/bamanuel977-afk/">
+<a href="https://github.com/bamanuel977-afk/Snake_game">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
