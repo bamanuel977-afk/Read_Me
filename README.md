@@ -15,8 +15,6 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=bamanuel977-afk&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-
 </div>
 
 ---
@@ -111,7 +109,7 @@ modern interface for browsing products.
 
 **Tech:** HTML • CSS • JavaScript
 
-<a href="https://github.com/bamanuel977-afk/ Shoe's Market">
+<a href="https://github.com/bamanuel977-afk/-Shoe-s-Market">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
