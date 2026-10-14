@@ -111,7 +111,7 @@ modern interface for browsing products.
 
 **Tech:** HTML • CSS • JavaScript
 
-<a href="https://github.com/bamanuel977-afk/first-project_2">
+<a href="https://github.com/bamanuel977-afk/ Shoe's Market">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
