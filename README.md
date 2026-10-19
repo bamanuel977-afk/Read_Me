@@ -148,7 +148,7 @@ spree to accept contact forms
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
-## Hotel & Resort web
+## Hotel & Resort Web
 
 
    using Html,css,and Javascript website for HoTel & Resort just a sample
@@ -227,7 +227,7 @@ I believe the best way to improve as a developer is to combine
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
