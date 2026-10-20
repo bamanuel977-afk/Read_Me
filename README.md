@@ -7,7 +7,6 @@
 ### 💻 Software Engineering Student • Developer • Tech Enthusiast
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=bamanuel977-afk&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="GitHub profile views"/>
   <img src="https://img.shields.io/github/followers/bamanuel977-afk?style=for-the-badge&logo=github&label=Followers&color=203a43" alt="GitHub followers"/>
 </p>
 
